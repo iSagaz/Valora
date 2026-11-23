@@ -27,6 +27,14 @@ O projeto utiliza a API [DummyJSON](https://dummyjson.com/) para obter dados de 
 
 **Importante:** os preços apresentados são dados fictícios fornecidos pela API. As marcas exibidas não representam lojas ou vendedores reais, e o gráfico apresenta uma comparação dos valores retornados na busca, não um histórico de preços.
 
+## 🔮 Futuras melhorias
+
+- **Integração com uma API de preços reais:** substituir os dados fictícios da DummyJSON por uma API que forneça informações atualizadas de produtos, preços e lojas.
+- **Comparação entre lojas:** permitir visualizar diferentes ofertas do mesmo produto em vendedores distintos.
+- **Histórico de preços:** implementar gráficos para acompanhar a variação dos preços ao longo do tempo.
+- **Filtros de pesquisa:** adicionar opções de ordenação por preço, relevância e categoria.
+- **Melhorias na experiência do usuário:** aprimorar a navegação e os recursos de pesquisa.
+
 ## 🎯 Objetivo
 
 O Valora foi desenvolvido como projeto de aprendizagem, com o objetivo de praticar consumo de APIs, manipulação do DOM, organização de dados com JavaScript e visualização de informações utilizando gráficos.
